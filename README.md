@@ -29,7 +29,7 @@ Temos uma função chamada detect_and_classify, nós recortamos a face detectada
 
 
 ## 📂 Arquivos Principais
-- `Cat_colab_webcam.ipynb`: Notebook com todo o código para rodar no Google Colab.
+- `Cat_face_detection.ipynb`: Notebook com todo o código para rodar no Google Colab.
 
 ## 🚀 Tecnologias Utilizadas
 - **Python**
